@@ -1,5 +1,5 @@
 
-# Business Insights 360 [Project Link](https://app.powerbi.com/links/bRyjUiEKcS?ctid=34c6a16f-5c98-4f1c-9e10-%205b1d293bf1d4&pbi_source=linkShare)
+# Business Insights 360 [Project Link](https://app.powerbi.com/view?r=eyJrIjoiNDg0ZWFlYjUtNWNhOC00MDdiLWI1MTItZmJhYjY3OWExNDVmIiwidCI6IjNiZTBhZmI3LTc0MmYtNDk4ZC1hZDY0LWY1NjFkN2IyZWQwNiJ9)
 
 
 
